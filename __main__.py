@@ -2,7 +2,7 @@
 # Project: minecolonies_helper - __main__.py
 # Author: Alexander "Karma" Karpov
 # Date: 08 Sep. 2024
-# Provides: Main file.
+# Provides: Main file of tool.
 #
 ###############################################################################
 
